@@ -1,2 +1,2 @@
 
-Project creating a calendar with React.js (for Frauenloop)
+## A calendar page with React.js 
